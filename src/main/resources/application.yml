@@ -1,12 +1,6 @@
 spring:
   application:
     name: eurekaserver
-  security:
-    basic:
-      enable: true
-    user:
-      name: cursoms-eureka-user
-      password: rcaukrr-eeeu-ossums
 
 server:
   port: 8761
